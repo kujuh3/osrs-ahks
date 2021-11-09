@@ -6,7 +6,7 @@ Unfortunately plugins required for colordetections aren't included.
 All of these bots are simply dumped here for the fun of it.
 
 <h1>Includes
- <h3><li>Customized bezier curves for mouse movements
+ <h3><li>Randomized bezier curves for mouse movements
  <li>Gnome agility course ahk
  <li>Master Farmer thief ahk
  <li>Rogues Den ahk (very funky)
