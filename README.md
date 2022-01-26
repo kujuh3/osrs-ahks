@@ -13,4 +13,4 @@ All of these bots are simply dumped here for the fun of it.
  <li>Tea Stall thief ahk
  <li>Varrock agility course ahk
  
-<h2>Master farmer ahk confirmed 4 accounts botted to 4mil EXP
+<h2>Master farmer ahk confirmed 4 accounts botted to 14mil EXP
